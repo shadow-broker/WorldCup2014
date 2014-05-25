@@ -1,0 +1,354 @@
+{
+    "Group A": [
+        {
+            "Away Team": "Croatia",
+            "Date": "2014-06-12T20:00:00",
+            "Home Team": "Brazil",
+            "Match": 1,
+            "Venue": "Arena de S\u00e3o Paulo, S\u00e3o Paulo"
+        },
+        {
+            "Away Team": "Cameroon",
+            "Date": "2014-06-13T16:00:00",
+            "Home Team": "Mexico",
+            "Match": 2,
+            "Venue": "Arena das Dunas, Natal"
+        },
+        {
+            "Away Team": "Mexico",
+            "Date": "2014-06-17T19:00:00",
+            "Home Team": "Brazil",
+            "Match": 17,
+            "Venue": "Est\u00e1dio Castel\u00e3o, Fortaleza"
+        },
+        {
+            "Away Team": "Croatia",
+            "Date": "2014-06-18T22:00:00",
+            "Home Team": "Cameroon",
+            "Match": 18,
+            "Venue": "Arena Amaz\u00f4nia, Manaus"
+        },
+        {
+            "Away Team": "Brazil",
+            "Date": "2014-06-23T20:00:00",
+            "Home Team": "Cameroon",
+            "Match": 33,
+            "Venue": "Est\u00e1dio Nacional Man\u00e9 Garrincha, Bras\u00edlia"
+        },
+        {
+            "Away Team": "Mexico",
+            "Date": "2014-06-23T20:00:00",
+            "Home Team": "Croatia",
+            "Match": 34,
+            "Venue": "Arena Pernambuco, Recife"
+        }
+    ],
+    "Group B": [
+        {
+            "Away Team": "Netherlands",
+            "Date": "2014-06-13T19:00:00",
+            "Home Team": "Spain",
+            "Match": 3,
+            "Venue": "Arena Fonte Nova, Salvador"
+        },
+        {
+            "Away Team": "Australia",
+            "Date": "2014-06-13T22:00:00",
+            "Home Team": "Chile",
+            "Match": 4,
+            "Venue": "Arena Pantanal, Cuiab\u00e1"
+        },
+        {
+            "Away Team": "Netherlands",
+            "Date": "2014-06-18T16:00:00",
+            "Home Team": "Australia",
+            "Match": 20,
+            "Venue": "Est\u00e1dio Beira-Rio, Porto Alegre"
+        },
+        {
+            "Away Team": "Chile",
+            "Date": "2014-06-18T19:00:00",
+            "Home Team": "Spain",
+            "Match": 19,
+            "Venue": "Est\u00e1dio do Maracan\u00e3, Rio de Janeiro"
+        },
+        {
+            "Away Team": "Spain",
+            "Date": "2014-06-23T16:00:00",
+            "Home Team": "Australia",
+            "Match": 35,
+            "Venue": "Arena da Baixada, Curitiba"
+        },
+        {
+            "Away Team": "Chile",
+            "Date": "2014-06-23T16:00:00",
+            "Home Team": "Netherlands",
+            "Match": 36,
+            "Venue": "Arena de S\u00e3o Paulo, S\u00e3o Paulo"
+        }
+    ],
+    "Group C": [
+        {
+            "Away Team": "Greece",
+            "Date": "2014-06-14T16:00:00",
+            "Home Team": "Colombia",
+            "Match": 5,
+            "Venue": "Est\u00e1dio Mineir\u00e3o, Belo Horizonte"
+        },
+        {
+            "Away Team": "Japan",
+            "Date": "2014-06-15T01:00:00",
+            "Home Team": "Ivory Coast",
+            "Match": 6,
+            "Venue": "Arena Pernambuco, Recife"
+        },
+        {
+            "Away Team": "Ivory Coast",
+            "Date": "2014-06-19T16:00:00",
+            "Home Team": "Colombia",
+            "Match": 21,
+            "Venue": "Est\u00e1dio Nacional Man\u00e9 Garrincha, Bras\u00edlia"
+        },
+        {
+            "Away Team": "Greece",
+            "Date": "2014-06-19T22:00:00",
+            "Home Team": "Japan",
+            "Match": 22,
+            "Venue": "Arena das Dunas, Natal"
+        },
+        {
+            "Away Team": "Colombia",
+            "Date": "2014-06-24T20:00:00",
+            "Home Team": "Japan",
+            "Match": 37,
+            "Venue": "Arena Pantanal, Cuiab\u00e1"
+        },
+        {
+            "Away Team": "Ivory Coast",
+            "Date": "2014-06-24T20:00:00",
+            "Home Team": "Greece",
+            "Match": 38,
+            "Venue": "Est\u00e1dio Castel\u00e3o, Fortaleza"
+        }
+    ],
+    "Group D": [
+        {
+            "Away Team": "Costa Rica",
+            "Date": "2014-06-14T19:00:00",
+            "Home Team": "Uruguay",
+            "Match": 7,
+            "Venue": "Est\u00e1dio Castel\u00e3o, Fortaleza"
+        },
+        {
+            "Away Team": "Italy",
+            "Date": "2014-06-14T22:00:00",
+            "Home Team": "England",
+            "Match": 8,
+            "Venue": "Arena Amaz\u00f4nia, Manaus"
+        },
+        {
+            "Away Team": "England",
+            "Date": "2014-06-19T19:00:00",
+            "Home Team": "Uruguay",
+            "Match": 23,
+            "Venue": "Arena de S\u00e3o Paulo, S\u00e3o Paulo"
+        },
+        {
+            "Away Team": "Costa Rica",
+            "Date": "2014-06-20T16:00:00",
+            "Home Team": "Italy",
+            "Match": 24,
+            "Venue": "Arena Pernambuco, Recife"
+        },
+        {
+            "Away Team": "Uruguay",
+            "Date": "2014-06-24T16:00:00",
+            "Home Team": "Italy",
+            "Match": 39,
+            "Venue": "Arena das Dunas, Natal"
+        },
+        {
+            "Away Team": "England",
+            "Date": "2014-06-24T16:00:00",
+            "Home Team": "Costa Rica",
+            "Match": 40,
+            "Venue": "Est\u00e1dio Mineir\u00e3o, Belo Horizonte"
+        }
+    ],
+    "Group E": [
+        {
+            "Away Team": "Ecuador",
+            "Date": "2014-06-15T16:00:00",
+            "Home Team": "Switzerland",
+            "Match": 9,
+            "Venue": "Est\u00e1dio Nacional Man\u00e9 Garrincha, Bras\u00edlia"
+        },
+        {
+            "Away Team": "Honduras",
+            "Date": "2014-06-15T19:00:00",
+            "Home Team": "France",
+            "Match": 10,
+            "Venue": "Est\u00e1dio Beira-Rio, Porto Alegre"
+        },
+        {
+            "Away Team": "France",
+            "Date": "2014-06-20T19:00:00",
+            "Home Team": "Switzerland",
+            "Match": 25,
+            "Venue": "Arena Fonte Nova, Salvador"
+        },
+        {
+            "Away Team": "Ecuador",
+            "Date": "2014-06-20T22:00:00",
+            "Home Team": "Honduras",
+            "Match": 26,
+            "Venue": "Arena da Baixada, Curitiba"
+        },
+        {
+            "Away Team": "Switzerland",
+            "Date": "2014-06-25T20:00:00",
+            "Home Team": "Honduras",
+            "Match": 41,
+            "Venue": "Arena Amaz\u00f4nia, Manaus"
+        },
+        {
+            "Away Team": "France",
+            "Date": "2014-06-25T20:00:00",
+            "Home Team": "Ecuador",
+            "Match": 42,
+            "Venue": "Est\u00e1dio do Maracan\u00e3, Rio de Janeiro"
+        }
+    ],
+    "Group F": [
+        {
+            "Away Team": "Bosnia and Herzegovina",
+            "Date": "2014-06-15T22:00:00",
+            "Home Team": "Argentina",
+            "Match": 11,
+            "Venue": "Est\u00e1dio do Maracan\u00e3, Rio de Janeiro"
+        },
+        {
+            "Away Team": "Nigeria",
+            "Date": "2014-06-16T19:00:00",
+            "Home Team": "Iran",
+            "Match": 12,
+            "Venue": "Arena da Baixada, Curitiba"
+        },
+        {
+            "Away Team": "Iran",
+            "Date": "2014-06-21T16:00:00",
+            "Home Team": "Argentina",
+            "Match": 27,
+            "Venue": "Est\u00e1dio Mineir\u00e3o, Belo Horizonte"
+        },
+        {
+            "Away Team": "Bosnia and Herzegovina",
+            "Date": "2014-06-21T22:00:00",
+            "Home Team": "Nigeria",
+            "Match": 28,
+            "Venue": "Arena Pantanal, Cuiab\u00e1"
+        },
+        {
+            "Away Team": "Argentina",
+            "Date": "2014-06-25T16:00:00",
+            "Home Team": "Nigeria",
+            "Match": 43,
+            "Venue": "Est\u00e1dio Beira-Rio, Porto Alegre"
+        },
+        {
+            "Away Team": "Iran",
+            "Date": "2014-06-25T16:00:00",
+            "Home Team": "Bosnia and Herzegovina",
+            "Match": 44,
+            "Venue": "Arena Fonte Nova, Salvador"
+        }
+    ],
+    "Group G": [
+        {
+            "Away Team": "Portugal",
+            "Date": "2014-06-16T16:00:00",
+            "Home Team": "Germany",
+            "Match": 13,
+            "Venue": "Arena Fonte Nova, Salvador"
+        },
+        {
+            "Away Team": "United States",
+            "Date": "2014-06-16T22:00:00",
+            "Home Team": "Ghana",
+            "Match": 14,
+            "Venue": "Arena das Dunas, Natal"
+        },
+        {
+            "Away Team": "Ghana",
+            "Date": "2014-06-21T19:00:00",
+            "Home Team": "Germany",
+            "Match": 29,
+            "Venue": "Est\u00e1dio Castel\u00e3o, Fortaleza"
+        },
+        {
+            "Away Team": "Portugal",
+            "Date": "2014-06-22T22:00:00",
+            "Home Team": "United States",
+            "Match": 30,
+            "Venue": "Arena Amaz\u00f4nia, Manaus"
+        },
+        {
+            "Away Team": "Germany",
+            "Date": "2014-06-26T16:00:00",
+            "Home Team": "United States",
+            "Match": 45,
+            "Venue": "Arena Pernambuco, Recife"
+        },
+        {
+            "Away Team": "Ghana",
+            "Date": "2014-06-26T16:00:00",
+            "Home Team": "Portugal",
+            "Match": 46,
+            "Venue": "Est\u00e1dio Nacional Man\u00e9 Garrincha, Bras\u00edlia"
+        }
+    ],
+    "Group H": [
+        {
+            "Away Team": "Algeria",
+            "Date": "2014-06-17T16:00:00",
+            "Home Team": "Belgium",
+            "Match": 15,
+            "Venue": "Est\u00e1dio Mineir\u00e3o, Belo Horizonte"
+        },
+        {
+            "Away Team": "South Korea",
+            "Date": "2014-06-17T22:00:00",
+            "Home Team": "Russia",
+            "Match": 16,
+            "Venue": "Arena Pantanal, Cuiab\u00e1"
+        },
+        {
+            "Away Team": "Russia",
+            "Date": "2014-06-22T16:00:00",
+            "Home Team": "Belgium",
+            "Match": 31,
+            "Venue": "Est\u00e1dio do Maracan\u00e3, Rio de Janeiro"
+        },
+        {
+            "Away Team": "Algeria",
+            "Date": "2014-06-22T19:00:00",
+            "Home Team": "South Korea",
+            "Match": 32,
+            "Venue": "Est\u00e1dio Beira-Rio, Porto Alegre"
+        },
+        {
+            "Away Team": "Belgium",
+            "Date": "2014-06-26T20:00:00",
+            "Home Team": "South Korea",
+            "Match": 47,
+            "Venue": "Arena de S\u00e3o Paulo, S\u00e3o Paulo"
+        },
+        {
+            "Away Team": "Russia",
+            "Date": "2014-06-26T20:00:00",
+            "Home Team": "Algeria",
+            "Match": 48,
+            "Venue": "Arena da Baixada, Curitiba"
+        }
+    ]
+}
