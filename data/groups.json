@@ -1,0 +1,50 @@
+{
+    "Group A": [
+        "Brazil",
+        "Croatia",
+        "Mexico",
+        "Cameroon"
+    ],
+    "Group B": [
+        "Spain",
+        "Netherlands",
+        "Chile",
+        "Australia"
+    ],
+    "Group C": [
+        "Colombia",
+        "Greece",
+        "Ivory Coast",
+        "Japan"
+    ],
+    "Group D": [
+        "Uruguay",
+        "Costa Rica",
+        "England",
+        "Italy"
+    ],
+    "Group E": [
+        "Switzerland",
+        "Ecuador",
+        "France",
+        "Honduras"
+    ],
+    "Group F": [
+        "Argentina",
+        "Bosnia and Herzegovina",
+        "Iran",
+        "Nigeria"
+    ],
+    "Group G": [
+        "Germany",
+        "Portugal",
+        "Ghana",
+        "United States"
+    ],
+    "Group H": [
+        "Belgium",
+        "Algeria",
+        "Russia",
+        "South Korea"
+    ]
+}

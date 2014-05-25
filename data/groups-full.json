@@ -1,0 +1,370 @@
+{
+    "Group A": [
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Brazil",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Croatia",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Mexico",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Cameroon",
+            "Won": 0
+        }
+    ],
+    "Group B": [
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Spain",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Netherlands",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Chile",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Australia",
+            "Won": 0
+        }
+    ],
+    "Group C": [
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Colombia",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Greece",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Ivory Coast",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Japan",
+            "Won": 0
+        }
+    ],
+    "Group D": [
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Uruguay",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Costa Rica",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "England",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Italy",
+            "Won": 0
+        }
+    ],
+    "Group E": [
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Switzerland",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Ecuador",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "France",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Honduras",
+            "Won": 0
+        }
+    ],
+    "Group F": [
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Argentina",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Bosnia and Herzegovina",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Iran",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Nigeria",
+            "Won": 0
+        }
+    ],
+    "Group G": [
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Germany",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Portugal",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Ghana",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "United States",
+            "Won": 0
+        }
+    ],
+    "Group H": [
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Belgium",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Algeria",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "Russia",
+            "Won": 0
+        },
+        {
+            "Drawn": 0,
+            "Goal difference": 0,
+            "Goals against": 0,
+            "Goals for": 0,
+            "Lost": 0,
+            "Played": 0,
+            "Points": 0,
+            "Team": "South Korea",
+            "Won": 0
+        }
+    ]
+}
